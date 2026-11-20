@@ -1,0 +1,14 @@
+{
+ "slug": "thales",
+ "en": "Thales",
+ "cn": "Thales",
+ "based_on": "pictogram-motion",
+ "borrows": [
+  "swiss-motion"
+ ],
+ "size": "1080x1920",
+ "library_version": "bebbbe1",
+ "created": "2026-11-21",
+ "line": "One line icon per phrase that springs in, does one verb and morphs into the next, on a black/off-white ground flipped by point-origin wipes, with a word-by-word caption and one accent keyword.",
+ "line_cn": "Um ícone por frase que nasce com mola, faz uma ação e vira o próximo; fundo preto/off-white alternado por wipes que partem de um ponto; legenda palavra por palavra e uma palavra-chave em destaque."
+}

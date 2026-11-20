@@ -17,6 +17,7 @@ This repository is a library of film styles. Each style has a `styles/<slug>/STY
 
 ## Start
 
+- **This fork's styles.** Read [`my-styles/README.md`](my-styles/README.md) first: Marcos's own styles live in `my-styles/<slug>/` in this repo and count like library styles.
 - **Their own styles first.** If `~/lemo-my-styles/README.md` exists, read it: it lists every style the user has saved, wherever it's kept, and their own styles ([`MY-STYLES.md`](MY-STYLES.md)) count like library styles. When they name a style, look there first, then in the library.
 - **Their language.** Talk to them in the language they write in. When they started the skill without writing anything, your first question is always the language, even when their settings, memory or earlier messages suggest one: the `AskUserQuestion` tool, a question of its own headed "Language 语言" with two options, 中文 and English (the tool adds Other, where they type any other language). Use it from then on, and as the film's default language.
 - **No request yet** (they only started the skill, or said hello): offer the ways in with one question, using the `AskUserQuestion` tool, in their language, with the first as the recommended one:
